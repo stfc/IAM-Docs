@@ -1,0 +1,13 @@
+site_name: IRIS IAM and SKA IAM Documentations
+nav:
+  - Home: index.md
+  - About:
+    - about/index.md
+    - About IRIS IAM: about/about-iris.md
+    - About SKA IAM: about/about-ska.md
+theme: 
+  name: material
+  logo: assets/logos/UKRI_STF_Council-Logo_Horiz-RGB[W].png
+  favicon: assets/logos/UKRI_STF_Council-Logo_Square-RGB.png
+  features:
+    - navigation.indexes
