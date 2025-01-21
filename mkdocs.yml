@@ -5,9 +5,33 @@ nav:
     - about/index.md
     - About IRIS IAM: about/about-iris.md
     - About SKA IAM: about/about-ska.md
+  - Contact Us:
+    - contact-us/index.md
+    - STFC SCD Help Centre Guide: contact-us/how-to-use-customer-portal.md
+  - Getting Started:
+    - getting-started/index.md
+    - Registering An Account: getting-started/registering-an-account.md
+    - Groups and Entitlements:
+      - getting-started/groups-and-entitlements/index.md
+      - Group User Guide: getting-started/groups-and-entitlements/group-user-guide.md
+      - Group Manager Guide: getting-started/groups-and-entitlements/group-management-guide.md
+  - Policies:
+    - policies/index.md
+    - IRIS:
+      - IRIS Acceptable Use Policy and Conditions of Use: policies/iris-aup.md
+      - IRIS IAM Privacy Notice: policies/iris-privacy.md
 theme: 
   name: material
   logo: assets/logos/UKRI_STF_Council-Logo_Horiz-RGB[W].png
   favicon: assets/logos/UKRI_STF_Council-Logo_Square-RGB.png
   features:
     - navigation.indexes
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+plugins:
+  - glightbox

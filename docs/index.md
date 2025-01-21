@@ -1,17 +1,14 @@
 # Welcome to STFC IAM Documentations
 
-A documentation site made for IRIS and SKA IAM
+A documentation site made for [IRIS IAM](https://iris-iam.stfc.ac.uk/) and [SKA IAM](https://ska-iam.stfc.ac.uk/)
 
-## Commands
+## News / Customer notice
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### 21 Jan 2025: AUP signing broken link. 
+The team is aware of the issue. Please follow the following workaround until a patch is released:
 
-## Project layout
+1. Proceed to [iris-iam.stfc.ac.uk](iris-iam.stfc.ac.uk) and sign into your account
+2. Once signed in, please go to [https://iris-iam.stfc.ac.uk/iam/aup/sign](https://iris-iam.stfc.ac.uk/iam/aup/sign)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Support and Issues
+Please refer to the [Contact Us](contact-us/index.md) page if you have question about this documentations or the IRIS IAM/SKA IAM services
