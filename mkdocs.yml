@@ -1,4 +1,4 @@
-site_name: IRIS IAM and SKA IAM Documentations
+site_name: IRIS IAM and SKA IAM Documentation Site
 nav:
   - Home: index.md
   - About:
