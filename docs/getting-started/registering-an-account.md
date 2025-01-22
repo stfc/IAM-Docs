@@ -71,5 +71,5 @@ This create a local IRIS IAM/SKA IAM account which will only be granted with a *
 
 4. Please read the **Acceptable Usage Policy** and **Privacy policy** carefully. 
 5. Click `Register` to submit the account request.
-6. You will recieve an email to verify your email account. Please click on the link to confirm you registration request.
+6. You will recieve an email to verify your email account. Please click on the link to confirm your registration request.
 7. Your request will be passed to the on-duty admin team and we aim to process your request within **4 working hours**.
