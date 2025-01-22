@@ -7,10 +7,10 @@ A documentation site made for [IRIS IAM](https://iris-iam.stfc.ac.uk/) and [SKA 
 ### 21 Jan 2025: AUP signing broken link. 
 The team is aware of the issue. Please follow the following workaround until a patch is released:
 
-1. Proceed to [iris-iam.stfc.ac.uk](iris-iam.stfc.ac.uk) and sign into your account
+1. Proceed to [iris-iam.stfc.ac.uk](https://iris-iam.stfc.ac.uk/) and sign into your account
 2. Once signed in, please go to [https://iris-iam.stfc.ac.uk/iam/aup/sign](https://iris-iam.stfc.ac.uk/iam/aup/sign)
 
-The above issue don't affect the SKA IAM at the moment.
+The above issue doesn't affect the SKA IAM at the moment.
 
 ## Support and Issues
 Please refer to the [Contact Us](contact-us/index.md) page if you have question about this documentation, or the IRIS IAM/SKA IAM services
