@@ -3,9 +3,9 @@ This is a documentation site maintained by STFC Scientific Computing Department 
 ## Get started
 ### To develop:
 1. Install Python 3
-2. Install `mkdocs-material`.
+2. Install `mkdocs-material` and `mkdocs-glightbox`.
 ```
-pip install mkdocs-material
+pip install mkdocs-material mkdocs-glightbox
 ```
 3. Clone this repository
 4. `cd` into this repository and run `mkdocs serve` or `python3 -m mkdocs serve`(For Windows)
