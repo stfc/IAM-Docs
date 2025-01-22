@@ -3,7 +3,7 @@
 If you encounter any issues or have any questions. You can contact the IRIS IAM/SKA IAM service management team via the following:
 
 - Customer portal: [STFC Fed Service Team Customer Portal](https://stfc.atlassian.net/servicedesk/customer/portal/31) **Recommanded**
-    - How to use the customer portal?
+    - [How to use the customer portal?](./how-to-use-customer-portal.md)
 - Contact Email (STFC Federating Service Team): [iris-iam-support@gridpp.rl.ac.uk](mailto:iris-iam-support@gridpp.rl.ac.uk)
     - For IAM Issues and Technical Support:
         - Please e-mail us at [iris-iam-support@gridpp.rl.ac.uk](mailto:iris-iam-support@gridpp.rl.ac.uk), with subject line `ATTN: IAM Support Issues`.
