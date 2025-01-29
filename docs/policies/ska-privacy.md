@@ -1,6 +1,6 @@
 # SKA IAM Privacy Notice
 
-This notice, the SKA IAM Privacy Notice, is effective from *29th Jan, 2024*.
+This notice, the SKA IAM Privacy Notice, is effective from *29th Jan, 2025*.
 
 The SKA Regional Centre Network (“SRCNet”) is a body under the SKA Observatory ("SKAO") that develops a collaborative and federated network of SKA Regional Centres, globally distributed across SKA partner countries, to host the SKA Science Archive and maximise the scientific productivity and impact of the SKA.
 

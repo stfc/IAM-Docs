@@ -1,6 +1,6 @@
 # IRIS Acceptable Use Policy and Conditions of Use
 
-This policy, the IRIS Acceptable Use Policy and Conditions of Use, is effective from *4th March, 2021*.
+This policy, the IRIS Acceptable Use Policy and Conditions of Use, is effective from *29th Jan, 2025*.
 
 This Acceptable Use Policy and Conditions of Use (“AUP”) defines the rules and conditions that govern your access to and use (including transmission, processing, and storage of data) of the resources and services (jointly “Services”) as granted by the Delivery Board of the e-Infrastructure for Research and Innovation for STFC (“IRIS”) for the purpose of conducting research furthering the science goals and missions supported by STFC and its partner organisations. More information about IRIS, its structure and partners can be found at [https://www.iris.ac.uk/](https://www.iris.ac.uk/).
 

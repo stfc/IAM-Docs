@@ -12,5 +12,12 @@ The team is aware of the issue. Please follow the following workaround until a p
 
 The above issue doesn't affect the SKA IAM at the moment.
 
+
+## Policies
+You can find the *Privicy notics* and *Acceptable use policy (AUP)* for IRIS IAM and SKA IAM in the [Policies](./policies/index.md) section
+
 ## Support and Issues
 Please refer to the [Contact Us](contact-us/index.md) page if you have question about this documentation, or the IRIS IAM/SKA IAM services
+
+## About Us
+You can find more information in the [About Us](./about/index.md) section.

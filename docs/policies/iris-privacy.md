@@ -1,6 +1,6 @@
 # IRIS IAM Privacy Notice
 
-This notice, the IRIS IAM Privacy Notice, is effective from *4th March, 2021*.
+This notice, the IRIS IAM Privacy Notice, is effective from *29th Jan, 2025*.
 
 The UK e-Infrastructure for Research and Innovation for STFC (“IRIS”) is a body of peer participant organisations co-ordinated for the purpose of sharing IT resources and services to further the science goals and missions supported by those organisations.
 
