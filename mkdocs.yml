@@ -20,6 +20,8 @@ nav:
     - IRIS:
       - IRIS Acceptable Use Policy and Conditions of Use: policies/iris-aup.md
       - IRIS IAM Privacy Notice: policies/iris-privacy.md
+    - SKA:
+      - SKA IAM Privacy Notice: policies/ska-privacy.md
 theme: 
   name: material
   logo: assets/logos/UKRI_STF_Council-Logo_Horiz-RGB[W].png
