@@ -46,7 +46,7 @@ SRCNet will keep your user registration data for as long as you remain a registe
 
 ## How your personal data is protected?
 
-The SKA IAM is committed to following the REFEDS Data Protection Code of Conduct. Your personal data will be protected according to the [Code of Conduct for Service Providers](https://geant3plus.archive.geant.net/Pages/uri/V1.html), a common standard for the research and higher education sector to protect your privacy.
+The SKAO IAM is committed to following the REFEDS Data Protection Code of Conduct. Your personal data will be protected according to the [Code of Conduct for Service Providers](http://www.geant.net/uri/dataprotection-code-of-conduct/v1), a common standard for the research and higher education sector to protect your privacy.
 
 Your personal data is protected against unauthorised disclosure, modification or deletion, by technical and organisational measures, including during transfer as described below.
 
