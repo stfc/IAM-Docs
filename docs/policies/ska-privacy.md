@@ -4,7 +4,7 @@ This notice, the SKA IAM Privacy Notice, is effective from *29th Jan, 2025*.
 
 The SKA Regional Centre Network (“SRCNet”) is a body under the SKA Observatory ("SKAO") that develops a collaborative and federated network of SKA Regional Centres, globally distributed across SKA partner countries, to host the SKA Science Archive and maximise the scientific productivity and impact of the SKA.
 
-The SKA IAM (Identity and Access Manager) Prototype provides an Authentication and Authorization Infrastructure (AAI) solution to SKAO and SRCNet. The IAM acts as a proxy service, allowing SKAO collaborators access to SRCNet services.
+The SKA IAM (Identity and Access Manager) provides an Authentication and Authorization Infrastructure (AAI) solution to SRCNet under SKAO. The IAM acts as a proxy service, allowing SKAO collaborators access to SRCNet services.
 
 ## General Principles
 
@@ -46,7 +46,7 @@ SRCNet will keep your user registration data for as long as you remain a registe
 
 ## How your personal data is protected?
 
-The SKAO IAM is committed to following the REFEDS Data Protection Code of Conduct. Your personal data will be protected according to the [Code of Conduct for Service Providers](http://www.geant.net/uri/dataprotection-code-of-conduct/v1), a common standard for the research and higher education sector to protect your privacy.
+The SKA IAM is committed to following the REFEDS Data Protection Code of Conduct. Your personal data will be protected according to the [Code of Conduct for Service Providers](http://www.geant.net/uri/dataprotection-code-of-conduct/v1), a common standard for the research and higher education sector to protect your privacy.
 
 Your personal data is protected against unauthorised disclosure, modification or deletion, by technical and organisational measures, including during transfer as described below.
 

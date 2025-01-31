@@ -1,7 +1,7 @@
 # About - SKA IAM
-The SKAO IAM (Identity and Access Manager) provides an Authentication and Authorization Infrastructure (AAI) solution to [SKAO](https://www.skao.int/en).
+The SKA IAM (Identity and Access Manager) provides an Authentication and Authorization Infrastructure (AAI) solution to SRCNet within [SKAO](https://www.skao.int/en).
 
-Please note that this is a **Prototype service** designed to support the development of the SKAO community
+Please note that this is a **Prototype service** designed to support the development of the SRCNet community
 
 ## What is SKAO?
 

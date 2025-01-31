@@ -10,7 +10,7 @@ This is a documentation site maintained by STFC Scientific Computing Department 
 </figure>
 
 ### SKA IAM
-[About SKA IAM](about-ska.md)
+[About SKA IAM ](about-ska.md)
 
 <figure markdown="span">
     ![SKAO logo](https://www.skao.int/sites/default/files/styles/ti_1500/public/2022-02/skao_logo_2021_colour_rgb_2500x1058px.jpg){ width="300" }
