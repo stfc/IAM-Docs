@@ -11,6 +11,9 @@ nav:
   - Getting Started:
     - getting-started/index.md
     - Registering An Account: getting-started/registering-an-account.md
+    - User Account Management:
+      - getting-started/user-account/index.md
+      - Link External Account: getting-started/user-account/link-account.md
     - Groups and Entitlements:
       - getting-started/groups-and-entitlements/index.md
       - Group User Guide: getting-started/groups-and-entitlements/group-user-guide.md

@@ -1,5 +1,8 @@
 # IAM Docs
 This is a documentation site maintained by STFC Scientific Computing Department Federating Service Team to support the users of IRIS IAM and SKA IAM
+
+Link: [https://stfc.github.io/IAM-Docs/](https://stfc.github.io/IAM-Docs/)
+
 ## Get started
 ### To develop:
 1. Install Python 3
