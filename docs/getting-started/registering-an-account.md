@@ -32,7 +32,9 @@ There are 2 ways to register for IRIS IAM/SKA IAM:
     </figure>
 
     ???+ info
-        Please be aware that due to the large number of institutions linked with eduGAIN, you may need to **type several characters** before finding yours
+        Please be aware that due to the large number of institutions linked with eduGAIN, you may need to **type several characters** before finding yours. 
+        
+        Also, please use the **Full English Name** of your institution instead of *acronym*. For example, *Science and Technology Facilities Council* instead of *STFC*
 
 
 
