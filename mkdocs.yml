@@ -14,6 +14,7 @@ nav:
     - User Account Management:
       - getting-started/user-account/index.md
       - Link External Account: getting-started/user-account/link-account.md
+      - Multi-factor authentication (MFA): getting-started/user-account/mfa.md
     - Groups and Entitlements:
       - getting-started/groups-and-entitlements/index.md
       - Group User Guide: getting-started/groups-and-entitlements/group-user-guide.md
