@@ -19,6 +19,8 @@ nav:
       - getting-started/groups-and-entitlements/index.md
       - Group User Guide: getting-started/groups-and-entitlements/group-user-guide.md
       - Group Manager Guide: getting-started/groups-and-entitlements/group-management-guide.md
+    - IAM Client Guide:
+      - getting-started/client/index.md
   - Policies:
     - policies/index.md
     - IRIS:
