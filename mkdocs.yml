@@ -29,6 +29,9 @@ nav:
     - SKA:
       - SKA IAM Acceptable Use Policy and Conditions of Use: policies/ska-aup.md
       - SKA IAM Privacy Notice: policies/ska-privacy.md
+  - Archived:
+    - history/index.md
+    - News Archive: history/news.md
       
 theme: 
   name: material
