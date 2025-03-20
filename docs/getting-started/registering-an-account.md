@@ -52,7 +52,11 @@ There are 2 ways to register for IRIS IAM/SKA IAM:
 
 6. Please read the **Acceptable Usage Policy** and **Privacy policy** carefully. 
 7. Click `Register` to submit the account request.
-8. You will recieve an email to verify your email account. Please click on the link to confirm you registration request.
+8. You will recieve an email to verify your email account. Please click on the link to confirm your registration request. 
+    
+    ???+ info
+        Please check your **Spam/Trash** folder and add the `iris-iam-support@gridpp.rl.ac.uk` to the **whitelist** if this is the case as you will also recieve news about your account and groups via this email.
+
 9. Your request will be passed to the on-duty admin team and we aim to process your request within **4 working hours**.
 
 ### Local Account Registration
@@ -74,4 +78,9 @@ This create a local IRIS IAM/SKA IAM account which will only be granted with a *
 4. Please read the **Acceptable Usage Policy** and **Privacy policy** carefully. 
 5. Click `Register` to submit the account request.
 6. You will recieve an email to verify your email account. Please click on the link to confirm your registration request.
+    
+    ???+ info
+        Please check your **Spam/Trash** folder and add the `iris-iam-support@gridpp.rl.ac.uk` to the **whitelist** if this is the case as you will also recieve news about your account and groups via this email.
+
+
 7. Your request will be passed to the on-duty admin team and we aim to process your request within **4 working hours**.
