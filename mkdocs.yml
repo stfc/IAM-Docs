@@ -47,4 +47,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 plugins:
-  - glightbox
+  - mkdocs-pdf
+  - glightbox:
+      skip_classes:
+      - pdf
+  

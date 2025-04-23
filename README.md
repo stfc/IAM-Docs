@@ -6,9 +6,9 @@ Link: [https://stfc.github.io/IAM-Docs/](https://stfc.github.io/IAM-Docs/)
 ## Get started
 ### To develop:
 1. Install Python 3
-2. Install `mkdocs-material` and `mkdocs-glightbox`.
+2. Install `mkdocs-material` `mkdocs-pdf` and `mkdocs-glightbox`.
 ```
-pip install mkdocs-material mkdocs-glightbox
+pip install mkdocs-material mkdocs-glightbox mkdocs-pdf
 ```
 3. Clone this repository
 4. `cd` into this repository and run `mkdocs serve` or `python3 -m mkdocs serve`(For Windows)
