@@ -7,6 +7,9 @@ The primary way of doing this is by **creating an account associated with a user
 
 Please note that all account requests require a member of the IAM admin team to approve them before they are activated. We endeavour to approve requests within **4 working hours** of recievining the request. Any requests made during the evening or over the weekend will likely see delays.
 
+???+ info
+    Please be aware that using the IAM Single Sign-On (SSO) will **automatically log you in** if an account is already linked to that SSO identity provider. If **no linked account** is found, you will be redirected to the **registration** workflow.
+
 ## Registration Process
 
 There are 2 ways to register for IRIS IAM/SKA IAM:
