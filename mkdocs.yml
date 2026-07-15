@@ -26,6 +26,7 @@ nav:
     - IRIS:
       - IRIS Acceptable Use Policy and Conditions of Use: policies/iris-aup.md
       - IRIS IAM Privacy Notice: policies/iris-privacy.md
+      - IRIS IAM SLA (Draft): policies/iris-sla.md
     - SKA:
       - SKA IAM Acceptable Use Policy and Conditions of Use: policies/ska-aup.md
       - SKA IAM Privacy Notice: policies/ska-privacy.md
@@ -47,4 +48,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 plugins:
+  - search
   - glightbox
+  - mkdocs-pdf
