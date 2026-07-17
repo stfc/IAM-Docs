@@ -17,6 +17,39 @@ The IAM offers OpenID Connect/OAuth client which users can use.
     </figure>
 5. Youe can retrieve the client secret for use in your application via clicking the client > *Credentials* > *Client secret*
 
+## Endpoints
+
+### OIDC Discovery & Endpoints
+
+The IRIS IAM and SKA IAM are OpenID Connect (OIDC) token issuers and implement the standard discovery protocol, exposing their metadata at a `.well-known/openid-configuration` address. This endpoint contains the information of the IdP in JSON format.
+
+- `/authorize`: Downstream applications directs the user here. They log in directly with IRIS IAM or SKA IAM (ot their SSO login), and IAM sends them back to the application with a temporary authorisation code.
+- `/token`: Downstream applications backend secretly sends the autorisation code from the above to this endpoint to exchange it for actual OIDC tokens (ID tokens, Access tokens, and/or Refresh tokens).
+- `/userinfo`: Downstream application can present the Tokens here to obtain the user's information such as (name, email, and group information).
+
+#### IRIS IAM
+
+* **OIDC Discovery URL:** `https://iris-iam.stfc.ac.uk/.well-known/openid-configuration`
+
+| Endpoint | URL |
+| --- | --- |
+| **Authorization** | `https://iris-iam.stfc.ac.uk/authorize` |
+| **Token** | `https://iris-iam.stfc.ac.uk/token` |
+| **User Info** | `https://iris-iam.stfc.ac.uk/userinfo` |
+
+---
+
+#### SKA IAM
+
+* **OIDC Discovery URL:** `https://ska-iam.stfc.ac.uk/.well-known/openid-configuration`
+
+| Endpoint | URL |
+| --- | --- |
+| **Authorization** | `https://ska-iam.stfc.ac.uk/authorize` |
+| **Token** | `https://ska-iam.stfc.ac.uk/token` |
+| **User Info** | `https://ska-iam.stfc.ac.uk/userinfo` |
+
+
 ## Clients Configuration
 This section will go through key configuration for the client.
 ### Main
